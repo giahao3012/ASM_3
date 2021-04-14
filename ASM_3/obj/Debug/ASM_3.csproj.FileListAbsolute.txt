@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\ASM_3\ASM_3\bin\Debug\ASM_3.exe.config
+C:\Users\DELL\source\repos\ASM_3\ASM_3\bin\Debug\ASM_3.exe
+C:\Users\DELL\source\repos\ASM_3\ASM_3\bin\Debug\ASM_3.pdb
+C:\Users\DELL\source\repos\ASM_3\ASM_3\bin\Debug\ProductLibrary.dll
+C:\Users\DELL\source\repos\ASM_3\ASM_3\bin\Debug\ProductLibrary.pdb
+C:\Users\DELL\source\repos\ASM_3\ASM_3\obj\Debug\ASM_3.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ASM_3\ASM_3\obj\Debug\ASM_3.frmMain.resources
+C:\Users\DELL\source\repos\ASM_3\ASM_3\obj\Debug\ASM_3.Properties.Resources.resources
+C:\Users\DELL\source\repos\ASM_3\ASM_3\obj\Debug\ASM_3.searchFrm.resources
+C:\Users\DELL\source\repos\ASM_3\ASM_3\obj\Debug\ASM_3.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\ASM_3\ASM_3\obj\Debug\ASM_3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ASM_3\ASM_3\obj\Debug\ASM_3.csproj.CopyComplete
+C:\Users\DELL\source\repos\ASM_3\ASM_3\obj\Debug\ASM_3.exe
+C:\Users\DELL\source\repos\ASM_3\ASM_3\obj\Debug\ASM_3.pdb
